@@ -1,0 +1,22 @@
+
+> newsbot@0.0.0 start /home/pi/Desktop/chatbot/Facebook-Newsbot
+> node ./bin/www
+
+[0mGET / [32m200 [0m3161.500 ms - 30499[0m
+[0mGET /vendor/metisMenu/metisMenu.min.css [32m200 [0m21.258 ms - 781[0m
+[0mGET /css/sb-admin-2.css [32m200 [0m26.237 ms - 8420[0m
+[0mGET /vendor/morrisjs/morris.css [32m200 [0m14.268 ms - 433[0m
+[0mGET /vendor/bootstrap/css/bootstrap.min.css [32m200 [0m26.303 ms - 121200[0m
+[0mGET /vendor/font-awesome/css/font-awesome.min.css [32m200 [0m16.240 ms - 29063[0m
+[0mGET /vendor/metisMenu/metisMenu.min.js [32m200 [0m9.095 ms - 1879[0m
+[0mGET /data/morris-data.js [32m200 [0m3.293 ms - 2536[0m
+[0mGET /vendor/bootstrap/js/bootstrap.min.js [32m200 [0m9.282 ms - 37045[0m
+[0mGET /vendor/morrisjs/morris.min.js [32m200 [0m9.695 ms - 35652[0m
+[0mGET /vendor/jquery/jquery.min.js [32m200 [0m9.490 ms - 86351[0m
+[0mGET /js/sb-admin-2.js [32m200 [0m3.364 ms - 1626[0m
+[0mGET /vendor/raphael/raphael.min.js [32m200 [0m9.629 ms - 92516[0m
+[0mGET /vendor/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 [32m200 [0m3.357 ms - 71896[0m
+
+> newsbot@0.0.0 start /home/pi/Desktop/chatbot/Facebook-Newsbot
+> node ./bin/www
+
